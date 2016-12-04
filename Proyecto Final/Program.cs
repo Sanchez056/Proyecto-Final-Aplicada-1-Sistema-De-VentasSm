@@ -15,7 +15,7 @@ namespace ProyectoFinal_Aplicada1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MenuPrincipal());
+            Application.Run(new IniciarSecion());
         }
     }
 }
