@@ -70,6 +70,7 @@
             // Editarbutton
             // 
             this.Editarbutton.ForeColor = System.Drawing.Color.Black;
+            this.Editarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.web_update;
             this.Editarbutton.Location = new System.Drawing.Point(245, 330);
             this.Editarbutton.Name = "Editarbutton";
             this.Editarbutton.Size = new System.Drawing.Size(116, 40);
@@ -174,6 +175,7 @@
             // Buscarbutton
             // 
             this.Buscarbutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.Buscarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.search;
             this.Buscarbutton.Location = new System.Drawing.Point(149, 69);
             this.Buscarbutton.Name = "Buscarbutton";
             this.Buscarbutton.Size = new System.Drawing.Size(99, 54);
@@ -186,6 +188,7 @@
             // Eliminarbutton
             // 
             this.Eliminarbutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.Eliminarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.cancel;
             this.Eliminarbutton.Location = new System.Drawing.Point(367, 332);
             this.Eliminarbutton.Name = "Eliminarbutton";
             this.Eliminarbutton.Size = new System.Drawing.Size(118, 38);
@@ -198,6 +201,7 @@
             // Guardarbutton
             // 
             this.Guardarbutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.Guardarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.save;
             this.Guardarbutton.Location = new System.Drawing.Point(137, 332);
             this.Guardarbutton.Name = "Guardarbutton";
             this.Guardarbutton.Size = new System.Drawing.Size(102, 38);
@@ -210,6 +214,7 @@
             // Nuevobutton
             // 
             this.Nuevobutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.Nuevobutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources._new;
             this.Nuevobutton.Location = new System.Drawing.Point(27, 332);
             this.Nuevobutton.Name = "Nuevobutton";
             this.Nuevobutton.Size = new System.Drawing.Size(101, 38);

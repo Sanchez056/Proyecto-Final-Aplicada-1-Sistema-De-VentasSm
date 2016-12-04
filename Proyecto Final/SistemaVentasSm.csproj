@@ -311,6 +311,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Registros\RegistrosArticuloss.resx">
       <DependentUpon>RegistrosArticuloss.cs</DependentUpon>
@@ -396,6 +397,11 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <DependentUpon>SistemaVentasDb.mdf</DependentUpon>
     </Content>
+    <None Include="Resources\cancel.ico" />
+    <None Include="Resources\web-update.ico" />
+    <None Include="Resources\save.ico" />
+    <None Include="Resources\new.ico" />
+    <None Include="Resources\search.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">

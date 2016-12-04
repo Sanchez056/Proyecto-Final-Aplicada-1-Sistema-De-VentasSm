@@ -60,6 +60,7 @@
             // Editarbutton
             // 
             this.Editarbutton.ForeColor = System.Drawing.Color.Black;
+            this.Editarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.web_update;
             this.Editarbutton.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Editarbutton.Location = new System.Drawing.Point(193, 316);
             this.Editarbutton.Name = "Editarbutton";
@@ -84,6 +85,7 @@
             // Eliminarbutton
             // 
             this.Eliminarbutton.ForeColor = System.Drawing.Color.Black;
+            this.Eliminarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.cancel;
             this.Eliminarbutton.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Eliminarbutton.Location = new System.Drawing.Point(290, 316);
             this.Eliminarbutton.Name = "Eliminarbutton";
@@ -97,6 +99,7 @@
             // Guardarbutton
             // 
             this.Guardarbutton.ForeColor = System.Drawing.Color.Black;
+            this.Guardarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.save;
             this.Guardarbutton.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Guardarbutton.Location = new System.Drawing.Point(100, 316);
             this.Guardarbutton.Name = "Guardarbutton";
@@ -110,6 +113,7 @@
             // Nuevobutton
             // 
             this.Nuevobutton.ForeColor = System.Drawing.Color.Black;
+            this.Nuevobutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources._new;
             this.Nuevobutton.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Nuevobutton.Location = new System.Drawing.Point(12, 316);
             this.Nuevobutton.Name = "Nuevobutton";
@@ -142,6 +146,7 @@
             // Buscarbutton
             // 
             this.Buscarbutton.ForeColor = System.Drawing.Color.Black;
+            this.Buscarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.search;
             this.Buscarbutton.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Buscarbutton.Location = new System.Drawing.Point(203, 81);
             this.Buscarbutton.Name = "Buscarbutton";

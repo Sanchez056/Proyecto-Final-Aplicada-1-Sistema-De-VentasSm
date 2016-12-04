@@ -30,7 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.Editarbutton = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.CategoriacomboBox = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -44,9 +43,6 @@
             this.DespcripciontextBox = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.Eliminarbutton = new System.Windows.Forms.Button();
-            this.Guadarbutton = new System.Windows.Forms.Button();
-            this.Nuevobutton = new System.Windows.Forms.Button();
-            this.Buscarbutton = new System.Windows.Forms.Button();
             this.MarcatextBox = new System.Windows.Forms.TextBox();
             this.NombretextBox = new System.Windows.Forms.TextBox();
             this.ArticuloIdtextBox = new System.Windows.Forms.TextBox();
@@ -61,6 +57,10 @@
             this.CantidaderrorProvider = new System.Windows.Forms.ErrorProvider(this.components);
             this.PrecioCompraerrorProvider = new System.Windows.Forms.ErrorProvider(this.components);
             this.PrecioVentaerrorProvider = new System.Windows.Forms.ErrorProvider(this.components);
+            this.Editarbutton = new System.Windows.Forms.Button();
+            this.Guadarbutton = new System.Windows.Forms.Button();
+            this.Nuevobutton = new System.Windows.Forms.Button();
+            this.Buscarbutton = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.BuscarerrorProvider)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.NombreerrorProvider)).BeginInit();
@@ -103,18 +103,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(719, 442);
             this.panel1.TabIndex = 3;
-            // 
-            // Editarbutton
-            // 
-            this.Editarbutton.ForeColor = System.Drawing.Color.Black;
-            this.Editarbutton.Location = new System.Drawing.Point(346, 377);
-            this.Editarbutton.Name = "Editarbutton";
-            this.Editarbutton.Size = new System.Drawing.Size(117, 42);
-            this.Editarbutton.TabIndex = 109;
-            this.Editarbutton.Text = "Editar";
-            this.Editarbutton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.Editarbutton.UseVisualStyleBackColor = true;
-            this.Editarbutton.Click += new System.EventHandler(this.Editarbutton_Click);
             // 
             // label1
             // 
@@ -224,6 +212,7 @@
             // Eliminarbutton
             // 
             this.Eliminarbutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.Eliminarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.cancel;
             this.Eliminarbutton.Location = new System.Drawing.Point(478, 377);
             this.Eliminarbutton.Name = "Eliminarbutton";
             this.Eliminarbutton.Size = new System.Drawing.Size(133, 44);
@@ -232,42 +221,6 @@
             this.Eliminarbutton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.Eliminarbutton.UseVisualStyleBackColor = true;
             this.Eliminarbutton.Click += new System.EventHandler(this.Eliminarbutton_Click_1);
-            // 
-            // Guadarbutton
-            // 
-            this.Guadarbutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.Guadarbutton.Location = new System.Drawing.Point(195, 376);
-            this.Guadarbutton.Name = "Guadarbutton";
-            this.Guadarbutton.Size = new System.Drawing.Size(135, 42);
-            this.Guadarbutton.TabIndex = 88;
-            this.Guadarbutton.Text = "Guardar";
-            this.Guadarbutton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.Guadarbutton.UseVisualStyleBackColor = true;
-            this.Guadarbutton.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // Nuevobutton
-            // 
-            this.Nuevobutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.Nuevobutton.Location = new System.Drawing.Point(60, 376);
-            this.Nuevobutton.Name = "Nuevobutton";
-            this.Nuevobutton.Size = new System.Drawing.Size(119, 42);
-            this.Nuevobutton.TabIndex = 87;
-            this.Nuevobutton.Text = "Nuevo";
-            this.Nuevobutton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.Nuevobutton.UseVisualStyleBackColor = true;
-            this.Nuevobutton.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // Buscarbutton
-            // 
-            this.Buscarbutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.Buscarbutton.Location = new System.Drawing.Point(210, 78);
-            this.Buscarbutton.Name = "Buscarbutton";
-            this.Buscarbutton.Size = new System.Drawing.Size(94, 43);
-            this.Buscarbutton.TabIndex = 86;
-            this.Buscarbutton.Text = "Buscar";
-            this.Buscarbutton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.Buscarbutton.UseVisualStyleBackColor = true;
-            this.Buscarbutton.Click += new System.EventHandler(this.Buscarbutton_Click_1);
             // 
             // MarcatextBox
             // 
@@ -343,6 +296,58 @@
             // PrecioVentaerrorProvider
             // 
             this.PrecioVentaerrorProvider.ContainerControl = this;
+            // 
+            // Editarbutton
+            // 
+            this.Editarbutton.ForeColor = System.Drawing.Color.Black;
+            this.Editarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.web_update;
+            this.Editarbutton.Location = new System.Drawing.Point(346, 377);
+            this.Editarbutton.Name = "Editarbutton";
+            this.Editarbutton.Size = new System.Drawing.Size(117, 42);
+            this.Editarbutton.TabIndex = 109;
+            this.Editarbutton.Text = "Editar";
+            this.Editarbutton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.Editarbutton.UseVisualStyleBackColor = true;
+            this.Editarbutton.Click += new System.EventHandler(this.Editarbutton_Click);
+            // 
+            // Guadarbutton
+            // 
+            this.Guadarbutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.Guadarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.save;
+            this.Guadarbutton.Location = new System.Drawing.Point(195, 376);
+            this.Guadarbutton.Name = "Guadarbutton";
+            this.Guadarbutton.Size = new System.Drawing.Size(135, 42);
+            this.Guadarbutton.TabIndex = 88;
+            this.Guadarbutton.Text = "Guardar";
+            this.Guadarbutton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.Guadarbutton.UseVisualStyleBackColor = true;
+            this.Guadarbutton.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // Nuevobutton
+            // 
+            this.Nuevobutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.Nuevobutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources._new;
+            this.Nuevobutton.Location = new System.Drawing.Point(60, 376);
+            this.Nuevobutton.Name = "Nuevobutton";
+            this.Nuevobutton.Size = new System.Drawing.Size(119, 42);
+            this.Nuevobutton.TabIndex = 87;
+            this.Nuevobutton.Text = "Nuevo";
+            this.Nuevobutton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.Nuevobutton.UseVisualStyleBackColor = true;
+            this.Nuevobutton.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // Buscarbutton
+            // 
+            this.Buscarbutton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.Buscarbutton.Image = global::ProyectoFinal_Aplicada1.Properties.Resources.search;
+            this.Buscarbutton.Location = new System.Drawing.Point(210, 78);
+            this.Buscarbutton.Name = "Buscarbutton";
+            this.Buscarbutton.Size = new System.Drawing.Size(94, 43);
+            this.Buscarbutton.TabIndex = 86;
+            this.Buscarbutton.Text = "Buscar";
+            this.Buscarbutton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.Buscarbutton.UseVisualStyleBackColor = true;
+            this.Buscarbutton.Click += new System.EventHandler(this.Buscarbutton_Click_1);
             // 
             // RegistrosArticuloss
             // 

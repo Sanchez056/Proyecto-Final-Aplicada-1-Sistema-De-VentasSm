@@ -137,3 +137,4 @@ C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-Ve
 C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.MyViewerUsuarios.resources
 C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\RdlCompile.cache
 C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\RdlCompile.compiled
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.IniciarSecion.resources

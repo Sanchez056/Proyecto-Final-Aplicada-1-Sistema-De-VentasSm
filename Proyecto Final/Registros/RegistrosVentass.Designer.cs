@@ -31,6 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RegistrosVentass));
             this.FacturatabControl = new System.Windows.Forms.TabControl();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.CantidadAgregafotextBox = new System.Windows.Forms.TextBox();
+            this.CantidadAgredoslabel = new System.Windows.Forms.Label();
             this.TotaltextBox = new System.Windows.Forms.TextBox();
             this.Totallabel = new System.Windows.Forms.Label();
             this.TotalItebistextBox = new System.Windows.Forms.TextBox();
@@ -62,8 +64,6 @@
             this.Agregarbutton = new System.Windows.Forms.Button();
             this.BuscarIdbutton = new System.Windows.Forms.Button();
             this.Fechalabel = new System.Windows.Forms.Label();
-            this.CantidadAgredoslabel = new System.Windows.Forms.Label();
-            this.CantidadAgregafotextBox = new System.Windows.Forms.TextBox();
             this.FacturatabControl.SuspendLayout();
             this.tabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ArticulodataGridView)).BeginInit();
@@ -121,6 +121,23 @@
             this.tabPage2.Size = new System.Drawing.Size(956, 486);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Factura ";
+            this.tabPage2.Click += new System.EventHandler(this.tabPage2_Click);
+            // 
+            // CantidadAgregafotextBox
+            // 
+            this.CantidadAgregafotextBox.Location = new System.Drawing.Point(795, 171);
+            this.CantidadAgregafotextBox.Name = "CantidadAgregafotextBox";
+            this.CantidadAgregafotextBox.Size = new System.Drawing.Size(106, 21);
+            this.CantidadAgregafotextBox.TabIndex = 111;
+            // 
+            // CantidadAgredoslabel
+            // 
+            this.CantidadAgredoslabel.AutoSize = true;
+            this.CantidadAgredoslabel.Location = new System.Drawing.Point(792, 149);
+            this.CantidadAgredoslabel.Name = "CantidadAgredoslabel";
+            this.CantidadAgredoslabel.Size = new System.Drawing.Size(146, 15);
+            this.CantidadAgredoslabel.TabIndex = 110;
+            this.CantidadAgredoslabel.Text = "Cantidad Agragado a la Lista:";
             // 
             // TotaltextBox
             // 
@@ -434,22 +451,6 @@
             this.Fechalabel.TabIndex = 36;
             this.Fechalabel.Text = "Fecha  De Ingreso";
             // 
-            // CantidadAgredoslabel
-            // 
-            this.CantidadAgredoslabel.AutoSize = true;
-            this.CantidadAgredoslabel.Location = new System.Drawing.Point(792, 149);
-            this.CantidadAgredoslabel.Name = "CantidadAgredoslabel";
-            this.CantidadAgredoslabel.Size = new System.Drawing.Size(146, 15);
-            this.CantidadAgredoslabel.TabIndex = 110;
-            this.CantidadAgredoslabel.Text = "Cantidad Agragado a la Lista:";
-            // 
-            // CantidadAgregafotextBox
-            // 
-            this.CantidadAgregafotextBox.Location = new System.Drawing.Point(795, 171);
-            this.CantidadAgregafotextBox.Name = "CantidadAgregafotextBox";
-            this.CantidadAgregafotextBox.Size = new System.Drawing.Size(106, 21);
-            this.CantidadAgregafotextBox.TabIndex = 111;
-            // 
             // RegistrosVentass
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -458,6 +459,7 @@
             this.Controls.Add(this.FacturatabControl);
             this.Name = "RegistrosVentass";
             this.Text = "RegistrosVentass";
+            this.Load += new System.EventHandler(this.RegistrosVentass_Load);
             this.FacturatabControl.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();

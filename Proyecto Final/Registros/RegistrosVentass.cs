@@ -19,6 +19,7 @@ namespace ProyectoFinal_Aplicada1.Registros
             CargarEmpleados();
             CargarClientes();
             CargarArticulos();
+            CargarCondicion();
 
             factura = new Ventas();
         }
@@ -34,20 +35,28 @@ namespace ProyectoFinal_Aplicada1.Registros
         public void CargarEmpleados()
         {
 
-            ArticulocomboBox.DataSource = null;
-            ArticulocomboBox.DataSource = BLL.EmpleadosBLL.GetLista();
-            ArticulocomboBox.ValueMember = "EmpleadoId";
-            ArticulocomboBox.DisplayMember = "Nombre";
+            EmpleadocomboBox.DataSource = null;
+            EmpleadocomboBox.DataSource = BLL.EmpleadosBLL.GetLista();
+            EmpleadocomboBox.ValueMember = "EmpleadoId";
+            EmpleadocomboBox.DisplayMember = "Nombre";
 
         }
 
         public void CargarClientes()
         {
 
-            ArticulocomboBox.DataSource = null;
-            ArticulocomboBox.DataSource = BLL.ClientesBLL.GetLista();
-            ArticulocomboBox.ValueMember = "ClienteId";
-            ArticulocomboBox.DisplayMember = "Nombre";
+            ClientecomboBox.DataSource = null;
+            ClientecomboBox.DataSource = BLL.ClientesBLL.GetLista();
+            ClientecomboBox.ValueMember = "ClienteId";
+            ClientecomboBox.DisplayMember = "Nombre";
+
+        }
+        public void CargarCondicion()
+        {
+            CondicioncomboBox.DataSource = null;
+            CondicioncomboBox.DataSource = BLL.TipoPagosBLL.GetLista();
+            CondicioncomboBox.ValueMember = "TipoId";
+            CondicioncomboBox.DisplayMember = "Descripcion";
 
         }
 
@@ -222,5 +231,15 @@ namespace ProyectoFinal_Aplicada1.Registros
             factura = new Ventas();
         }
 
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RegistrosVentass_Load(object sender, EventArgs e)
+        {
+            CargarClientes();
+            CargarEmpleados();
+        }
     }
 }
