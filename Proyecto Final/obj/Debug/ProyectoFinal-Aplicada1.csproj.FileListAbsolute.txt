@@ -1,0 +1,119 @@
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\DataBase\ProyectoFinalDb.mdf
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\DataBase\ProyectoFinalDb_log.ldf
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.exe.config
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\BLL.dll
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\DAL.dll
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\Entidades.dll
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.dll
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\BLL.pdb
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\DAL.pdb
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\Entidades.pdb
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.xml
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.csprojResolveAssemblyReference.cache
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaProducto.resources
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaUsuarios.resources
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultar.ConsultaVendedores.resources
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.FormularioPrincipal.resources
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Login.resources
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Properties.Resources.resources
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.RegistroProducto.RegistrosProductos.resources
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistroUsuario.RegistrosUsuarios.resources
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.RegistroVendedor.RegistroVendedor.resources
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.csproj.GenerateResource.Cache
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\DataBase\ProyectoFinalDb.mdf
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\DataBase\ProyectoFinalDb_log.ldf
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.exe.config
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\BLL.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\DAL.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\Entidades.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\BLL.pdb
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\DAL.pdb
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\Entidades.pdb
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.xml
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.csprojResolveAssemblyReference.cache
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaProducto.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaUsuarios.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultar.ConsultaVendedores.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.FormularioPrincipal.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Login.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Properties.Resources.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Registros.Facturacion.Factura.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.RegistroProducto.RegistrosProductos.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistroUsuario.RegistrosUsuarios.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.RegistroVendedor.RegistroVendedor.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Registros.VentanaReportes.Vendedores.resources
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.csproj.GenerateResource.Cache
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\RdlCompile.cache
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\RdlCompile.compiled
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.VentanasReportes.FacturaReporte.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.exe.config
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\DataBase\ProyectoFinalDb.mdf
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\DataBase\ProyectoFinalDb_log.ldf
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\BLL.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\DAL.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\BLL.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\DAL.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.xml
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.csprojResolveAssemblyReference.cache
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaProducto.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaUsuarios.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultar.ConsultaVendedores.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.FormularioPrincipal.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Login.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Properties.Resources.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Registros.Facturacion.Factura.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.RegistroProducto.RegistrosProductos.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistroUsuario.RegistrosUsuarios.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.RegistroVendedor.RegistroVendedor.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Registros.VentanaReportes.Vendedores.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.VentanasReportes.FacturaReporte.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.csproj.GenerateResource.Cache
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\RdlCompile.cache
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\RdlCompile.compiled

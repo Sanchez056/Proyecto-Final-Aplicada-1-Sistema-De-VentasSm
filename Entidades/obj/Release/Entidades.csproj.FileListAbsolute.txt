@@ -1,0 +1,9 @@
+C:\Users\adolfo\Documents\Proyecto Final\Entidades\bin\Release\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\Entidades\bin\Release\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Entidades\obj\Release\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\Entidades\obj\Release\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Entidades\bin\Release\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Entidades\bin\Release\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Entidades\obj\Release\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Entidades\obj\Release\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache

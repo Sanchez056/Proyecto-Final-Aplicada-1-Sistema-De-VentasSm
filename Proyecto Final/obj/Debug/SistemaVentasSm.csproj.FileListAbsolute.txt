@@ -1,0 +1,139 @@
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.exe.config
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\SistemaVentasSm.csprojResolveAssemblyReference.cache
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaProducto.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaUsuarios.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.MenuPrincipal.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Login.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Properties.Resources.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.RegistroProducto.RegistrosProductos.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.VentanasReportes.FacturaReporte.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\SistemaVentasSm.csproj.GenerateResource.Cache
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\RdlCompile.cache
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\RdlCompile.compiled
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\BLL.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\DAL.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\BLL.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\DAL.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.xml
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\obj\Debug\ProyectoFinal_Aplicada1.Registros.Facturacion.RegistrosVentas.resources
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\DataBase\SistemaVentasDb.mdf
+C:\Users\adolfo\Documents\Proyecto Final\ProyectoFinal-Aplicada1\bin\Debug\DataBase\SistemaVentasDb_log.ldf
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\DataBase\SistemaVentasDb.mdf
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\DataBase\SistemaVentasDb_log.ldf
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\ProyectoFinal-Aplicada1.exe.config
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\BLL.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\DAL.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\BLL.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\DAL.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\SistemaVentasSm.csprojResolveAssemblyReference.cache
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.MenuPrincipal.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Login.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Properties.Resources.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.VentanasReportes.FacturaReporte.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\SistemaVentasSm.csproj.GenerateResource.Cache
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\RdlCompile.cache
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\RdlCompile.compiled
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosArticuloss.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosVentass.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\ProyectoFinal-Aplicada1.exe.config
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\DataBase\SistemaVentasDb.mdf
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\DataBase\SistemaVentasDb_log.ldf
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\ProyectoFinal-Aplicada1.exe
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\ProyectoFinal-Aplicada1.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\BLL.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\DAL.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\BLL.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\DAL.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\SistemaVentasSm.csprojResolveAssemblyReference.cache
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.MenuPrincipal.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Properties.Resources.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosArticuloss.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosVentass.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.VentanasReportes.FacturaReporte.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\SistemaVentasSm.csproj.GenerateResource.Cache
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaCategorias.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaClientes.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaEmpleados.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaProvvedor.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultasArticulos.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaTipoUsuarios.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaUsuarios.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.ConsultaVentas.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosCategorias.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosClientes.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosEmpleados.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosProvvedores.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosTiposUsuarios.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Registros.RegistrosUsuarios.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.MyViewerArticulos.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.MyViewerCategorias.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.MyViewerClientes.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.MyViewerEmpleados.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.MyViewerProveedores.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.MyViewerTipoUsuarios.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\ProyectoFinal_Aplicada1.Consultas.MyViewerUsuarios.resources
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\RdlCompile.cache
+C:\Users\adolfo\Documents\Proyecto Final\Proyecto-Final-Aplicada-1-Sistema-De-VentasSm\Proyecto Final\obj\Debug\RdlCompile.compiled

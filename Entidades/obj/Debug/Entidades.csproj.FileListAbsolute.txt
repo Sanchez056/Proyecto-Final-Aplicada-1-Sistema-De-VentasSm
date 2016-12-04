@@ -1,0 +1,13 @@
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\Entidades\bin\Debug\Entidades.dll
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\Entidades\obj\Debug\Entidades.dll
+C:\Users\YAVIER AMARANTE\OneDrive\7mo Semestre Ucne\Programacion Aplicada 1\Aplicada1-ProyectoFinal\ProyectoFinal-Aplicada1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\Entidades\bin\Debug\Entidades.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\Entidades\bin\Debug\Entidades.pdb
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\Entidades\obj\Debug\Entidades.dll
+C:\Users\YAVIER AMARANTE\Source\Repos\ProyectoFinal-Aplicada1-2016-34\Entidades\obj\Debug\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Entidades\bin\Debug\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\adolfo\Documents\Proyecto Final\Entidades\obj\Debug\Entidades.dll
+C:\Users\adolfo\Documents\Proyecto Final\Entidades\obj\Debug\Entidades.pdb
