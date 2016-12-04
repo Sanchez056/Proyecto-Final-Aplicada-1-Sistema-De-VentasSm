@@ -230,11 +230,6 @@
     <Compile Include="Registros\RegistrosVentass.Designer.cs">
       <DependentUpon>RegistrosVentass.cs</DependentUpon>
     </Compile>
-    <Compile Include="SistemaVentasDbDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>SistemaVentasDbDataSet.xsd</DependentUpon>
-    </Compile>
     <Compile Include="SistemaVentasDbDataSet1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -355,17 +350,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="SistemaVentasDbDataSet.xsc">
-      <DependentUpon>SistemaVentasDbDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="SistemaVentasDbDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>SistemaVentasDbDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="SistemaVentasDbDataSet.xss">
-      <DependentUpon>SistemaVentasDbDataSet.xsd</DependentUpon>
-    </None>
     <None Include="SistemaVentasDbDataSet1.xsc">
       <DependentUpon>SistemaVentasDbDataSet1.xsd</DependentUpon>
     </None>
